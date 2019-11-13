@@ -60,4 +60,4 @@ typings/
 # Upload files
 examples/**/upload/*
 !examples/**/upload/.gitkeep
-lib
+#lib
